@@ -56,7 +56,7 @@ fetch("https://nihal-priyadarshi.github.io/Tarana/db.json")
 
                });
 
-               list.appendChild(link);
+               list.append(link);
 
           });
      });
@@ -227,8 +227,13 @@ function previous_song() {
 
 var curmins, cursecs;
 
-// Change Slider Position 
+// Change Slider Position
 function change_duration() {
+     slider_position = track.duration * (slider.value / 100);
+     track.currentTime = slider_position;
+}
+
+function changeDur() {
      slider_position = track.duration * (slider.value / 100);
      track.currentTime = slider_position;
      curmins = Math.floor(track.currentTime / 60), cursecs = Math.floor(track.currentTime - curmins * 60);
@@ -239,11 +244,6 @@ function change_duration() {
      } else {
           passed_duration.innerHTML = `${curmins} : ${cursecs}`;
      }
-}
-
-slider.onchange = function () {
-     slider_position = track.duration * (slider.value / 100);
-     track.currentTime = slider_position;
 
 }
 
