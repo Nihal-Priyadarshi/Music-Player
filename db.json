@@ -201,6 +201,14 @@
 	},
 	{
 		"id": "26",
+		"name": "Chidiya",
+		"path": "music/Chidiya.mp3",
+		"img": "img/Chidiya.jpeg",
+		"singer": "Vilen",
+		"genre": "Romantic"
+	},
+	{
+		"id": "27",
 		"name": "Chittiyaan Kalaiyaan",
 		"path": "music/Chittiyaan_Kalaiyaan.mp3",
 		"img": "img/Chittiyaan_Kalaiyaan.jpeg",
@@ -208,7 +216,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "27",
+		"id": "28",
 		"name": "Chup Chup Ke",
 		"path": "music/Chup_Chup_Ke.mp3",
 		"img": "img/Chup_Chup_Ke.jpeg",
@@ -216,7 +224,15 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "28",
+		"id": "29",
+		"name": "Daddy Mummy",
+		"path": "music/Daddy_Mummy.mp3",
+		"img": "img/Daddy_Mummy.jpeg",
+		"singer": "Devi Sri Prasad & M.M. Manasi",
+		"genre": "Hot Hits"
+	},
+	{
+		"id": "30",
 		"name": "Dil Aaj Kal",
 		"path": "music/Dil_Aaj_Kal.mp3",
 		"img": "img/Dil_Aaj_Kal.webp",
@@ -224,7 +240,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "29",
+		"id": "31",
 		"name": "Dil Jaaniye",
 		"path": "music/Dil_Jaaniye.mp3",
 		"img": "img/Dil_Jaaniye.jpeg",
@@ -232,7 +248,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "30",
+		"id": "32",
 		"name": "Dil Mera Muft Ka",
 		"path": "music/Dil_Mera_Muft_Ka.mp3",
 		"img": "img/Dil_Mera_Muft_Ka.jpeg",
@@ -240,7 +256,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "31",
+		"id": "33",
 		"name": "Dil Meri Na Sune",
 		"path": "music/Dil_Meri_Na_Sune.mp3",
 		"img": "img/Dil_Meri_Na_Sune.jpeg",
@@ -248,7 +264,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "32",
+		"id": "34",
 		"name": "Dilbar",
 		"path": "music/Dilbar.mp3",
 		"img": "img/Dilbar.jpeg",
@@ -256,7 +272,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "33",
+		"id": "35",
 		"name": "Ding Dang",
 		"path": "music/Ding_Dang.mp3",
 		"img": "img/Ding_Dang.jpeg",
@@ -264,7 +280,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "34",
+		"id": "36",
 		"name": "Dj Waley Babu",
 		"path": "music/Dj_Waley_Babu.mp3",
 		"img": "img/Dj_Waley_Babu.jpeg",
@@ -272,7 +288,7 @@
 		"genre": "Club"
 	},
 	{
-		"id": "35",
+		"id": "37",
 		"name": "Ek Chumma",
 		"path": "music/Ek_Chumma.mp3",
 		"img": "img/Ek_Chumma.jpeg",
@@ -280,7 +296,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "36",
+		"id": "38",
 		"name": "Ek Do Teen",
 		"path": "music/Ek_Do_Teen.mp3",
 		"img": "img/Ek_Do_Teen.jpeg",
@@ -288,7 +304,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "37",
+		"id": "39",
 		"name": "Gali Gali",
 		"path": "music/Gali_Gali.mp3",
 		"img": "img/Gali_Gali.jpeg",
@@ -296,7 +312,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "38",
+		"id": "40",
 		"name": "Galti Se Mistake",
 		"path": "music/Galti_Se_Mistake.mp3",
 		"img": "img/Galti_Se_Mistake.jpeg",
@@ -304,7 +320,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "39",
+		"id": "41",
 		"name": "Genda Phool",
 		"path": "music/Genda_Phool.mp3",
 		"img": "img/Genda_Phool.jpeg",
@@ -312,7 +328,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "40",
+		"id": "42",
 		"name": "Ghalat Fehmi",
 		"path": "music/Ghalat_Fehmi.mp3",
 		"img": "img/Ghalat_Fehmi.jpeg",
@@ -320,7 +336,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "41",
+		"id": "43",
 		"name": "Guzarish",
 		"path": "music/Guzarish.mp3",
 		"img": "img/Guzarish.jpeg",
@@ -328,7 +344,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "42",
+		"id": "44",
 		"name": "Hangover",
 		"path": "music/Hangover.mp3",
 		"img": "img/Hangover.jpeg",
@@ -336,7 +352,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "43",
+		"id": "45",
 		"name": "Hawayein",
 		"path": "music/Hawayein.mp3",
 		"img": "img/Hawayein.jpeg",
@@ -344,7 +360,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "44",
+		"id": "46",
 		"name": "High Heels",
 		"path": "music/High_Heels.mp3",
 		"img": "img/High_Heels.jpeg",
@@ -352,7 +368,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "45",
+		"id": "47",
 		"name": "Hookah Bar",
 		"path": "music/Hookah_Bar.mp3",
 		"img": "img/Hookah_Bar.jpeg",
@@ -360,7 +376,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "46",
+		"id": "48",
 		"name": "Humein Jab Se Mohabbat",
 		"path": "music/Humein_Jab_Se_Mohabbat.mp3",
 		"img": "img/Humein_Jab_Se_Mohabbat.jpeg",
@@ -368,7 +384,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "47",
+		"id": "49",
 		"name": "Husn Parcham",
 		"path": "music/Husn_Parcham.mp3",
 		"img": "img/Husn_Parcham.jpeg",
@@ -376,7 +392,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "48",
+		"id": "50",
 		"name": "Ik Mulaqaat",
 		"path": "music/Ik_Mulaqaat.mp3",
 		"img": "img/Ik_Mulaqaat.jpeg",
@@ -384,7 +400,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "49",
+		"id": "51",
 		"name": "Illegal Weapon 2.0",
 		"path": "music/Illegal_Weapon_2.0.mp3",
 		"img": "img/Illegal_Weapon_2.0.webp",
@@ -392,7 +408,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "50",
+		"id": "52",
 		"name": "Ishq Ka Raja",
 		"path": "music/Ishq_Ka_Raja.mp3",
 		"img": "img/Ishq_Ka_Raja.webp",
@@ -400,7 +416,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "51",
+		"id": "53",
 		"name": "Ishq Sufiyana",
 		"path": "music/Ishq_Sufiyana.mp3",
 		"img": "img/Ishq_Sufiyana.jpeg",
@@ -408,7 +424,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "52",
+		"id": "54",
 		"name": "Ishq Wala Love",
 		"path": "music/Ishq_Wala_Love.mp3",
 		"img": "img/Ishq_Wala_Love.jpeg",
@@ -416,7 +432,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "53",
+		"id": "55",
 		"name": "Jab Tak",
 		"path": "music/Jab_Tak.mp3",
 		"img": "img/Jab_Tak.jpeg",
@@ -424,7 +440,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "54",
+		"id": "56",
 		"name": "Jumme Ki Raat",
 		"path": "music/Jumme_Ki_Raat.mp3",
 		"img": "img/Jumme_Ki_Raat.jpeg",
@@ -432,7 +448,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "55",
+		"id": "57",
 		"name": "Kabhi Jo Baadal Barse",
 		"path": "music/Kabhi_Jo_Baadal_Barse.mp3",
 		"img": "img/Kabhi_Jo_Baadal_Barse.webp",
@@ -440,7 +456,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "56",
+		"id": "58",
 		"name": "Kamariya",
 		"path": "music/Kamariya.mp3",
 		"img": "img/Kamariya.jpeg",
@@ -448,7 +464,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "57",
+		"id": "59",
 		"name": "Kamli",
 		"path": "music/Kamli.mp3",
 		"img": "img/Kamli.jpeg",
@@ -456,7 +472,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "58",
+		"id": "60",
 		"name": "Kar Gayi Chull",
 		"path": "music/Kar_Gayi_Chull.mp3",
 		"img": "img/Kar_Gayi_Chull.jpeg",
@@ -464,7 +480,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "59",
+		"id": "61",
 		"name": "Kaun Tujhe",
 		"path": "music/Kaun_Tujhe.mp3",
 		"img": "img/Kaun_Tujhe.jpeg",
@@ -472,7 +488,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "60",
+		"id": "62",
 		"name": "Khairiyat",
 		"path": "music/Khairiyat.mp3",
 		"img": "img/Khairiyat.jpeg",
@@ -480,7 +496,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "61",
+		"id": "63",
 		"name": "Khuda Jaane",
 		"path": "music/Khuda_Jaane.mp3",
 		"img": "img/Khuda_Jaane.webp",
@@ -488,7 +504,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "62",
+		"id": "64",
 		"name": "Khudaya Khair",
 		"path": "music/Khudaya_Khair.mp3",
 		"img": "img/Khudaya_Khair.jpeg",
@@ -496,7 +512,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "63",
+		"id": "65",
 		"name": "Kinna Sona",
 		"path": "music/Kinna_Sona.mp3",
 		"img": "img/Kinna_Sona.jpeg",
@@ -504,7 +520,15 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "64",
+		"id": "66",
+		"name": "Lag Ja Gale",
+		"path": "music/Lag_Ja_Gale.mp3",
+		"img": "img/Lag_Ja_Gale.jpeg",
+		"singer": "Rahat Fateh Ali Khan",
+		"genre": "Romantic"
+	},
+	{
+		"id": "67",
 		"name": "Lagdi Lahore Di",
 		"path": "music/Lagdi_Lahore_Di.mp3",
 		"img": "img/Lagdi_Lahore_Di.webp",
@@ -512,7 +536,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "65",
+		"id": "68",
 		"name": "Laila Main Laila",
 		"path": "music/Laila_Main_Laila.mp3",
 		"img": "img/Laila_Main_Laila.jpeg",
@@ -520,7 +544,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "66",
+		"id": "69",
 		"name": "Lat Lag Gayee",
 		"path": "music/Lat_Lag_Gayee.mp3",
 		"img": "img/Lat_Lag_Gayee.jpeg",
@@ -528,7 +552,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "67",
+		"id": "70",
 		"name": "Love Me Thoda Aur",
 		"path": "music/Love_Me_Thoda_Aur.mp3",
 		"img": "img/Love_Me_Thoda_Aur.webp",
@@ -536,7 +560,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "68",
+		"id": "71",
 		"name": "Lut Gaye",
 		"path": "music/Lut_Gaye.mp3",
 		"img": "img/Lut_Gaye.jpeg",
@@ -544,7 +568,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "69",
+		"id": "72",
 		"name": "Main Tera Boyfriend",
 		"path": "music/Main_Tera_Boyfriend.mp3",
 		"img": "img/Main_Tera_Boyfriend.jpeg",
@@ -552,7 +576,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "70",
+		"id": "73",
 		"name": "MashAllah",
 		"path": "music/MashAllah.mp3",
 		"img": "img/MashAllah.jpeg",
@@ -560,7 +584,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "71",
+		"id": "74",
 		"name": "Meri Aashiqui",
 		"path": "music/Meri_Aashiqui.mp3",
 		"img": "img/Meri_Aashiqui.jpeg",
@@ -568,7 +592,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "72",
+		"id": "75",
 		"name": "Muskurane",
 		"path": "music/Muskurane.mp3",
 		"img": "img/Muskurane.jpeg",
@@ -576,7 +600,15 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "73",
+		"id": "76",
+		"name": "Nadiyon Paar",
+		"path": "music/Nadiyon_Paar.mp3",
+		"img": "img/Nadiyon_Paar.jpeg",
+		"singer": "IP Singh, Rashmeet Kaur & Shamur",
+		"genre": "Hot Hits"
+	},
+	{
+		"id": "77",
 		"name": "Nashe Si Chadh Gayi",
 		"path": "music/Nashe_Si_Chadh_Gayi.mp3",
 		"img": "img/Nashe_Si_Chadh_Gayi.webp",
@@ -584,7 +616,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "74",
+		"id": "78",
 		"name": "Nit Khair Manga",
 		"path": "music/Nit_Khair_Manga.mp3",
 		"img": "img/Nit_Khair_Manga.jpeg",
@@ -592,7 +624,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "75",
+		"id": "79",
 		"name": "O Saki Saki",
 		"path": "music/O_Saki_Saki.mp3",
 		"img": "img/O_Saki_Saki.jpeg",
@@ -600,7 +632,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "76",
+		"id": "80",
 		"name": "Pachtaoge",
 		"path": "music/Pachtaoge.mp3",
 		"img": "img/Pachtaoge.jpeg",
@@ -608,7 +640,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "77",
+		"id": "81",
 		"name": "Pal",
 		"path": "music/Pal.mp3",
 		"img": "img/Pal.jpeg",
@@ -616,7 +648,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "78",
+		"id": "82",
 		"name": "Party On My Mind",
 		"path": "music/Party_On_My_Mind.mp3",
 		"img": "img/Party_On_My_Mind.jpeg",
@@ -624,7 +656,7 @@
 		"genre": "Club"
 	},
 	{
-		"id": "79",
+		"id": "83",
 		"name": "Pee Loon",
 		"path": "music/Pee_Loon.mp3",
 		"img": "img/Pee_Loon.jpeg",
@@ -632,7 +664,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "80",
+		"id": "84",
 		"name": "Phir Bhi Tumko Chaahunga",
 		"path": "music/Phir_Bhi_Tumko_Chaahunga.mp3",
 		"img": "img/Phir_Bhi_Tumko_Chaahunga.jpeg",
@@ -640,7 +672,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "81",
+		"id": "85",
 		"name": "Phir Kabhi",
 		"path": "music/Phir_Kabhi.mp3",
 		"img": "img/Phir_Kabhi.jpeg",
@@ -648,7 +680,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "82",
+		"id": "86",
 		"name": "Pyar Humko Bhi Hai",
 		"path": "music/Pyar_Humko_Bhi_Hai.mp3",
 		"img": "img/Pyar_Humko_Bhi_Hai.jpeg",
@@ -656,7 +688,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "83",
+		"id": "87",
 		"name": "Qaafirana",
 		"path": "music/Qaafirana.mp3",
 		"img": "img/Qaafirana.jpeg",
@@ -664,7 +696,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "84",
+		"id": "88",
 		"name": "Raanjhanaa",
 		"path": "music/Raanjhanaa.mp3",
 		"img": "img/Raanjhanaa.jpeg",
@@ -672,7 +704,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "85",
+		"id": "89",
 		"name": "Raat Bhar",
 		"path": "music/Raat_Bhar.mp3",
 		"img": "img/Raat_Bhar.webp",
@@ -680,7 +712,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "86",
+		"id": "90",
 		"name": "Rabba Main Toh Mar Gaya Oye",
 		"path": "music/Rabba_Main_Toh_Mar_Gaya_Oye.mp3",
 		"img": "img/Rabba_Main_Toh_Mar_Gaya_Oye.webp",
@@ -688,7 +720,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "87",
+		"id": "91",
 		"name": "Radha",
 		"path": "music/Radha.mp3",
 		"img": "img/Radha.jpeg",
@@ -696,7 +728,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "88",
+		"id": "92",
 		"name": "Sau Tarah Ke",
 		"path": "music/Sau_Tarah_Ke.mp3",
 		"img": "img/Sau_Tarah_Ke.jpeg",
@@ -704,7 +736,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "89",
+		"id": "93",
 		"name": "Saude Bazzi",
 		"path": "music/Saude_Bazzi.mp3",
 		"img": "img/Saude_Baazi.webp",
@@ -712,7 +744,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "90",
+		"id": "94",
 		"name": "Sawan Aaya Hai",
 		"path": "music/Sawan_Aaya_Hai.mp3",
 		"img": "img/Sawan_Aaya_Hai.jpeg",
@@ -720,7 +752,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "91",
+		"id": "95",
 		"name": "Shayad",
 		"path": "music/Shayad.mp3",
 		"img": "img/Shayad.jpeg",
@@ -728,7 +760,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "92",
+		"id": "96",
 		"name": "Shukran Allah",
 		"path": "music/Shukran_Allah.mp3",
 		"img": "img/Shukran_Allah.webp",
@@ -736,7 +768,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "93",
+		"id": "97",
 		"name": "Slow_Motion",
 		"path": "music/Slow_Motion.mp3",
 		"img": "img/Slow_Motion.webp",
@@ -744,7 +776,7 @@
 		"genre": "Club"
 	},
 	{
-		"id": "94",
+		"id": "98",
 		"name": "Soniyo",
 		"path": "music/Soniyo.mp3",
 		"img": "img/Soniyo.jpeg",
@@ -752,7 +784,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "95",
+		"id": "99",
 		"name": "Suno Na Suno Na",
 		"path": "music/Suno_Na_Suno_Na.mp3",
 		"img": "img/Suno_Na_Suno_Na.jpeg",
@@ -760,7 +792,15 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "96",
+		"id": "100",
+		"name": "Surili Akhiyon Wale",
+		"path": "music/Surili_Akhiyon_Wale.mp3",
+		"img": "img/Surili_Akhiyon_Wale.jpeg",
+		"singer": "Rahat Fateh Ali Khan, Sajid–Wajid & Suzanne D'Mello",
+		"genre": "Romantic"
+	},
+	{
+		"id": "101",
 		"name": "Sweetheart",
 		"path": "music/Sweetheart.mp3",
 		"img": "img/Sweetheart.jpeg",
@@ -768,7 +808,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "97",
+		"id": "102",
 		"name": "Tauba Tumhare Yeh Ishare",
 		"path": "music/Tauba_Tumhare_Yeh_Ishare.mp3",
 		"img": "img/Tauba_Tumhare_Yeh_Ishare.jpeg",
@@ -776,7 +816,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "98",
+		"id": "103",
 		"name": "Tera Fitoor",
 		"path": "music/Tera_Fitoor.mp3",
 		"img": "img/Tera_Fitoor.jpeg",
@@ -784,7 +824,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "99",
+		"id": "104",
 		"name": "Tera Hone Laga Hoon",
 		"path": "music/Tera_Hone_Laga_Hoon.mp3",
 		"img": "img/Tera_Hone_Laga_Hoon.jpeg",
@@ -792,7 +832,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "100",
+		"id": "105",
 		"name": "Tera Rastaa Chhodoon Na",
 		"path": "music/Tera_Rastaa_Chhodoon_Na.mp3",
 		"img": "img/Tera_Rastaa_Chhodoon_Na.webp",
@@ -800,7 +840,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "101",
+		"id": "106",
 		"name": "Tere Bin",
 		"path": "music/Tere_Bin.mp3",
 		"img": "img/Tere_Bin.jpeg",
@@ -808,7 +848,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "102",
+		"id": "107",
 		"name": "Tere Bin Nahi Laage",
 		"path": "music/Tere_Bin_Nahi_Laage-Male.mp3",
 		"img": "img/Tere_Bin_Nahi_Laage-Male.jpeg",
@@ -816,7 +856,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "103",
+		"id": "108",
 		"name": "Tere Bin Nahi Laage",
 		"path": "music/Tere_Bin_Nahi_Laage.mp3",
 		"img": "img/Tere_Bin_Nahi_Laage.webp",
@@ -824,7 +864,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "104",
+		"id": "109",
 		"name": "Tere Naina Maar Hi Daalenge",
 		"path": "music/Tere_Naina_Maar_Hi_Daalenge.mp3",
 		"img": "img/Tere_Naina_Maar_Hi_Daalenge.jpeg",
@@ -832,7 +872,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "105",
+		"id": "110",
 		"name": "Teri Jhuki Nazar",
 		"path": "music/Teri_Jhuki_Nazar.mp3",
 		"img": "img/Teri_Jhuki_Nazar.jpeg",
@@ -840,7 +880,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "106",
+		"id": "111",
 		"name": "Teri Ore",
 		"path": "music/Teri_Ore.mp3",
 		"img": "img/Teri_Ore.jpeg",
@@ -848,7 +888,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "107",
+		"id": "112",
 		"name": "The Humma Song",
 		"path": "music/The_Humma_Song.mp3",
 		"img": "img/The_Humma_Song.webp",
@@ -856,7 +896,7 @@
 		"genre": "Club"
 	},
 	{
-		"id": "108",
+		"id": "113",
 		"name": "The Jawaani Song",
 		"path": "music/The_Jawaani_Song.mp3",
 		"img": "img/The_Jawaani_Song.jpeg",
@@ -864,7 +904,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "109",
+		"id": "114",
 		"name": "Thoda Thoda Pyaar",
 		"path": "music/Thoda_Thoda_Pyaar.mp3",
 		"img": "img/Thoda_Thoda_Pyar.jpeg",
@@ -872,7 +912,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "110",
+		"id": "115",
 		"name": "Thodi Der",
 		"path": "music/Thodi_Der.mp3",
 		"img": "img/Thodi_Der.jpeg",
@@ -880,7 +920,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "111",
+		"id": "116",
 		"name": "Titli",
 		"path": "music/Titli.mp3",
 		"img": "img/Titli.webp",
@@ -888,7 +928,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "112",
+		"id": "117",
 		"name": "Tu Chahiye",
 		"path": "music/Tu_Chahiye.mp3",
 		"img": "img/Tu_Chahiye.jpeg",
@@ -896,7 +936,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "113",
+		"id": "118",
 		"name": "Tum Saath Ho",
 		"path": "music/Tum_Saath_Ho.mp3",
 		"img": "img/Tum_Saath_Ho.jpeg",
@@ -904,7 +944,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "114",
+		"id": "119",
 		"name": "Tum Tak",
 		"path": "music/Tum_Tak.mp3",
 		"img": "img/Tum_Tak.jpeg",
@@ -912,7 +952,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "115",
+		"id": "120",
 		"name": "Tune Maari Entriyaan",
 		"path": "music/Tune_Maari_Entriyaan.mp3",
 		"img": "img/Tune_Maari_Entriyaan.webp",
@@ -920,7 +960,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "116",
+		"id": "121",
 		"name": "Yaad Piya Ki Aane Lagi",
 		"path": "music/Yaad_Piya_Ki_Aane_Lagi.mp3",
 		"img": "img/Yaad_Piya_Ki_Aane_Lagi.jpeg",
@@ -928,7 +968,7 @@
 		"genre": "Club"
 	},
 	{
-		"id": "117",
+		"id": "122",
 		"name": "Yaar Naa Miley",
 		"path": "music/Yaar_Naa_Miley.mp3",
 		"img": "img/Yaar_Naa_Miley.webp",
@@ -936,7 +976,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "118",
+		"id": "123",
 		"name": "Zaalima",
 		"path": "music/Zaalima.mp3",
 		"img": "img/Zaalima.jpeg",
@@ -944,7 +984,7 @@
 		"genre": "Romantic"
 	},
 	{
-		"id": "119",
+		"id": "124",
 		"name": "Zilla Hilela",
 		"path": "music/Zilla_Hilela.mp3",
 		"img": "img/Zilla_Hilela.jpeg",
@@ -952,7 +992,7 @@
 		"genre": "Hot Hits"
 	},
 	{
-		"id": "120",
+		"id": "125",
 		"name": "Zindagi",
 		"path": "music/Zindagi.mp3",
 		"img": "img/Zindagi.webp",
