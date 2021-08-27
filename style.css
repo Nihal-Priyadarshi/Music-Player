@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,700&display=swap');
 *{
 	margin: 0;
 	padding: 0;
@@ -342,7 +343,7 @@ input[type="range"]::-webkit-slider-thumb{
 
 #list a {
 	text-decoration: none;
-	font-family: monospace;
+	font-family: monospace,'Zilla Slab', serif;
 	font-size: 25px;
 	font-style: italic;
 	font-variant: small-caps;
