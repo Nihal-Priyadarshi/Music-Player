@@ -23,9 +23,7 @@ fetch("https://nihal-priyadarshi.github.io/Tarana/db.json")
           artist.innerHTML = All_song[index_no].singer;
 
           track.load();
-          // console.log(recent_volume.value);
           track.volume = recent_volume.value / 100;
-          // console.log(track.volume);
 
 
           timer = setInterval(range_slider, 1000);
@@ -33,7 +31,6 @@ fetch("https://nihal-priyadarshi.github.io/Tarana/db.json")
           present.innerHTML = index_no + 1;
 
           All_song.forEach(element => {
-               // console.log(element.singer);
 
                link = document.createElement('a');
                link.innerHTML = `${element.id}. ${element.name} &rarr; ${element.singer} <br/><br/>`;
@@ -48,12 +45,11 @@ fetch("https://nihal-priyadarshi.github.io/Tarana/db.json")
                     track_image.src = element.img;
                     artist.innerHTML = element.singer;
                     present.innerHTML = All_song[element.id - 1].id;
-                    playsong();
-
+                    
                     nochange();
-                    clearInterval(timer);
                     reset_slider();
-
+                    
+                    playsong();
                });
 
                list.append(link);
