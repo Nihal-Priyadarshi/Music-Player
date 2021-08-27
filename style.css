@@ -299,7 +299,7 @@ footer{
 	position: absolute;
 }
 .documentation_body{
-	position: absolute;
+	position: relative;
 	box-sizing: border-box;
 	height: 90%;
 	width: 100%;
