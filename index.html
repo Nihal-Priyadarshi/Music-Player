@@ -12,8 +12,7 @@
     <meta property="og:title" content="Tarana - Geet Wahi Par Naya Jamana">
     <meta property="og:description"
         content="Listen to the soulful voice of various singers and enjoy your time with us.">
-    <meta property="og:image" itemprop="image"
-        content="https://raw.githubusercontent.com/Nihal-Priyadarshi/Tarana/master/images/1.Tarana_page-view.png">
+    <meta property="og:image" itemprop="image" content="https://raw.githubusercontent.com/Nihal-Priyadarshi/Tarana/master/images/1.Tarana_page-view.png">
     <meta property="og:url" content="https://nihal-priyadarshi.github.io/Music-Player/">
     <meta name="og:phone_number" content="+910000000000" />
     <meta name="og:country-name" content="India, Bharat" />
@@ -27,17 +26,15 @@
     <meta name="rating" content="General">
     <meta name="twitter:creator" content="@nihal089121999">
     <meta name="twitter:title" content="Tarana - Geet Wahi Par Naya Jamana">
-    <meta name="twitter:description"
-        content="Listen to the soulful voice of various singers and enjoy your time with us.">
-    <meta name="twitter:image"
-        content="https://raw.githubusercontent.com/Nihal-Priyadarshi/Tarana/master/images/1.Tarana_page-view.png">
+    <meta name="twitter:description" content="Listen to the soulful voice of various singers and enjoy your time with us.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/Nihal-Priyadarshi/Tarana/master/images/1.Tarana_page-view.png">
     <meta name="twitter:image:alt" content="Tarana - Geet Wahi Par Naya Jamana">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@nihal089121999">
     <meta property="fb:app_id" content="nihal.priyadarshi.1999">
     <meta itemprop="name" content="Nihal Priyadarshi">
     <meta itemprop="description" content="Listen to the soulful voice of various singers and enjoy your time with us.">
-
+    
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
@@ -49,59 +46,56 @@
 </head>
 
 <body>
-    <section id="main">
-        <header>
-            <h1 id="logo"><i class="fa fa-music"></i>Tarana</h1>
-        </header>
-        <main>
-            <div class="left">
-                <div class="image"><img id="track_image"></div>
-                <div class="volume">
-                    <p id="volume_show">40</p>
-                    <i class="fa fa-volume-up" aria-hidden="true" id="volume_icon" title="Mute"></i>
-                    <input type="range" min="0" max="100" value="40" onchange="volume_change()" id="volume">
-                </div>
+    <div class="main" id="main">
+        <p id="logo"><i class="fa fa-music"></i>Tarana</p>
+        <!--- left part --->
+        <div class="left">
+            <!--- song img --->
+            <div class="image"><img id="track_image"></div>
+            <div class="volume">
+                <p id="volume_show">40</p>
+                <i class="fa fa-volume-up" aria-hidden="true" id="volume_icon" title="Mute"></i>
+                <input type="range" min="0" max="100" value="40" onchange="volume_change()" id="volume">
             </div>
-            <div class="right">
-                <p id="title">Title</p>
-                <p id="artist">Artist Name</p>
-                <div class="all_buttons">
-                    <button id="shuffle" class="shuffle fa fa-random right_blue" title="Enable shuffle">
-                    </button>
-                    <button onclick="previous_song();" id="pre" class="right_blue" title="Previous"><i
-                            class="fa fa-step-backward" aria-hidden="true"></i>
-                    </button>
-                    <button id="play" class="right_pink play_button" title="Play"><i class="fa fa-play"
-                            aria-hidden="true"></i>
-                    </button>
-                    <button onclick="next_song();" id="next" class="right_blue"><i class="fa fa-step-forward"
-                            aria-hidden="true" title="Next"></i>
-                    </button>
-                    <button id="repeat" class="repeat fa fa-repeat right_blue" title="Enable repeat">
-                    </button>
-                </div>
-                <div class="duration">
-                    <p id="passed_duration">0 : 00</p>
-                    <input type="range" min="0" max="100" value="0" id="duration_slider" oninput="change_duration();">
-                    <p id="full_duration">0 : 00</p>
-                </div>
-            </div>
-        </main>
-        <footer>
+        </div>
+        <!--- right part --->
+        <div class="right">
             <div class="show_song_no">
                 <p id="present"></p>
                 <p> / </p>
                 <p id="total"></p>
             </div>
-        </footer>
-    </section>
-    <section class="documentation">
+            <!--- song title & artist name --->
+            <p id="title">Title</p>
+            <p id="artist">Artist name</p>
+            <!--- middle part of right part--->
+            <div class="middle">
+                <button id="shuffle" class="shuffle fa fa-random right_blue" title="Enable shuffle">
+                </button>
+                <button onclick="previous_song();" id="pre" class="right_blue" title="Previous"><i
+                        class="fa fa-step-backward" aria-hidden="true"></i>
+                </button>
+                <button id="play" class="right_pink play_button" title="Play"><i class="fa fa-play" aria-hidden="true"></i>
+                </button>
+                <button onclick="next_song();" id="next" class="right_blue"><i class="fa fa-step-forward"
+                        aria-hidden="true" title="Next"></i>
+                </button>
+                <button id="repeat" class="repeat fa fa-repeat right_blue" title="Enable repeat">
+                </button>
+            </div>
+            <!--- song duration part --->
+            <div class="duration">
+                <p id="passed_duration">0 : 00</p>
+                <input type="range" min="0" max="100" value="0" id="duration_slider" oninput="change_duration();">
+                <p id="full_duration">0 : 00</p>
+            </div>
+        </div>
+    </div>
+    <div class="documentation">
         <button class="hide_show" id="hide_show"></button>
-    </section>
-    <section class="documentation_page" id="main_body_hide">
-        <header>
-            <h1 id="logo"><i class="fa fa-music"></i>Tarana</h1>
-        </header>
+    </div>
+    <div class="documentation_page" id="main_body_hide">
+        <p id="logo"><i class="fa fa-music"></i>Tarana</p>
         <div class="documentation_body">
             <h1>PLAYLIST</h1><br /><br />
             <h2>
@@ -109,10 +103,9 @@
                 </ol>
             </h2>
         </div>
-    </section>
+    </div>
 
     <!--- Javascript file --->
     <script src="./main.js"></script>
 </body>
-
 </html>
