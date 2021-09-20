@@ -1,6 +1,6 @@
 <h1 align="center"> Tarana - Best Music Player </h1>
 
-Live Demo [Music-Player]()
+Live Demo [Music-Player](singlebucks.github.io/tarana/)
 
 <br/>
 
