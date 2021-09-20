@@ -2,7 +2,7 @@
 
 <br>
 
-### Live Demo Of [tarana](https://singlebucks.github.io/tarana/)
+### Live Demo of [tarana](https://singlebucks.github.io/tarana/)
 
 <br/>
 
