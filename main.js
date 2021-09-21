@@ -5,7 +5,7 @@ let timer, link, All_song, max, index_no = 0;
 // Creating An Audio Element.
 let track = document.createElement('audio');
 
-fetch("https://singlebucks.github.io/tarana/db.json")
+fetch("https://www.singlebucks.live/tarana/db.json")
      .then(function (response) {
           return response.json();
      })
