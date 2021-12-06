@@ -1,3 +1,6 @@
+<img align="center" src="https://raw.githubusercontent.com/singlebucks/tarana/master/images/1.Tarana_page-view.png">
+
+
 <h1 align="center"> Tarana - Best Music Player </h1>
 
 <br>
