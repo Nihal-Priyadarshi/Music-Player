@@ -1,7 +1,9 @@
+<h2 align="center"> Tarana - Best Music Player </h2>
+
+
 <a href="https://www.singlebucks.live"><img align="center" src="https://raw.githubusercontent.com/singlebucks/tarana/master/images/1.Tarana_page-view.png"></a>
 
 
-<h2 align="center"> Tarana - Best Music Player </h2>
 
 <br>
 
