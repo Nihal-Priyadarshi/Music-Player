@@ -1,4 +1,4 @@
-<h2 align="center"> Tarana - Best Music Player </h2>
+<h1 align="center"> Tarana - Best Music Player </h1>
 
 
 <a href="https://www.singlebucks.live"><img align="center" src="https://raw.githubusercontent.com/singlebucks/tarana/master/images/1.Tarana_page-view.png"></a>
@@ -7,7 +7,7 @@
 
 <br>
 
-### Live Demo of [tarana](https://www.singlebucks.live/tarana)
+## Live Demo [Tarana](https://www.singlebucks.live/tarana)
 
 <br/>
 
@@ -21,5 +21,5 @@
 
 <br>
 <p align="center">
-<a href="https://github.com/Nihal-Priyadarshi"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+<a href="https://singlebucks.live"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
